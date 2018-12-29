@@ -7,9 +7,12 @@ ln -s i3 ~/.config/i3
 ln -s compton.conf ~/.config/compton.conf
 
 # Rofi
-ln -s  rofi ~/.config/rofi
+ln -s rofi ~/.config/rofi
 
 # Nvim
-ln -s  nvim ~/.config/nvim
+ln -s nvim ~/.config/nvim
+
+# zsh
+ln -s zshrc ~/.zshrc
 
 exit 0
