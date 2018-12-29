@@ -15,4 +15,8 @@ ln -s nvim ~/.config/nvim
 # zsh
 ln -s zshrc ~/.zshrc
 
+# zsh
+ln -s tmux.conf ~/.tmux.conf
+
+
 exit 0
